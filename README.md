@@ -1,5 +1,3 @@
-# Prepare the README file content
-readme_content = """
 # Python Chatbot Project
 
 This project implements a basic chatbot using Python. It uses text processing techniques, including tokenization and TF-IDF-based cosine similarity, to generate responses.
