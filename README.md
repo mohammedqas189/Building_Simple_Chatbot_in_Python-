@@ -11,25 +11,7 @@ This project implements a basic chatbot using Python. It uses text processing te
 1. The chatbot reads a text corpus (`chatbot.txt`) to train itself on example sentences and vocabulary.
 2. User inputs are tokenized and preprocessed to remove punctuation and lemmatize words.
 3. Using cosine similarity, the chatbot finds the most relevant response from the corpus.
-
-## Setup Instructions
-1. Clone the repository:\n
-    ```bash
-    git clone <repository_url>
-    ```
-
-2. Navigate to the project directory:\n
-    ```bash
-    cd chatbot_project
-    ```
-
-3. Install the required dependencies:\n
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 4. Ensure the `chatbot.txt` file (training corpus) is present in the directory.
-
 5. Run the chatbot notebook (`chatbot.ipynb`) or script using a Jupyter Notebook or Python IDE.
 
 ## Training Corpus
